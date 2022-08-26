@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "base64-stream": "^1.0.0",
+    "concat-stream": "^2.0.0",
+    "dotenv": "^16.0.1",
+    "needle": "^3.1.0",
+    "node-cron": "^3.0.2",
+    "nodemon": "^2.0.19",
+    "pureimage": "^0.3.14"
+  }
+}
